@@ -1,1 +1,0 @@
-# android_vendor_samsung_a3core
